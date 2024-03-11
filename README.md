@@ -98,4 +98,4 @@ Query breakdown:
 
 ## Summary
 
-In conclusion, I successfully examined suspicious logins within the organization using SQL filters and queries. The `AND`, `OR`, and `NOT` logical operators allowed me to conditionalize queries. Using the `LIKE` operator and the `%` wildcard permitted searching for patterns. 
+In conclusion, I successfully examined suspicious logins within the organization using SQL filters and queries. The `AND`, `OR`, and `NOT` logical operators allowed me to conditionalize queries. Using the `LIKE` operator and the `%` wildcard permitted searching for patterns. I also queried specific employees whose machines required security updates.
